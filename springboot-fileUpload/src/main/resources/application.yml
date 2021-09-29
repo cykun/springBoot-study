@@ -1,0 +1,8 @@
+spring:
+  servlet:
+    multipart:
+      max-file-size: 50MB # Maximum value for single file.
+      max-request-size: 100MB # Maximum total uploaded files.
+
+file:
+  upload-path: G:\
