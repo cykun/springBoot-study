@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="springboot-web" />
         <module name="springboot-fileUpload" />
+        <module name="springboot-swagger" />
       </profile>
     </annotationProcessing>
   </component>
