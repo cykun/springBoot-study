@@ -11,6 +11,7 @@
         <module name="springboot-swagger" />
         <module name="springboot-filter" />
         <module name="springboot-fileUpload" />
+        <module name="springboot-websocket" />
       </profile>
     </annotationProcessing>
   </component>
