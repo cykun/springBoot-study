@@ -6,12 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="springboot-swagger" />
+        <module name="springboot-limit" />
+        <module name="springboot-websocket" />
         <module name="springboot-web" />
         <module name="springboot-task" />
-        <module name="springboot-swagger" />
         <module name="springboot-filter" />
         <module name="springboot-fileUpload" />
-        <module name="springboot-websocket" />
       </profile>
     </annotationProcessing>
   </component>

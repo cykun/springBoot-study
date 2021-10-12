@@ -15,6 +15,7 @@
         <module>springboot-filter</module>
         <module>springboot-task</module>
         <module>springboot-websocket</module>
+        <module>springboot-limit</module>
     </modules>
 
     <properties>
