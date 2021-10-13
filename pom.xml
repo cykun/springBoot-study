@@ -18,6 +18,7 @@
         <module>springboot-limit</module>
         <module>springboot-log4j2</module>
         <module>springboot-interceptor</module>
+        <module>springboot-cache</module>
     </modules>
 
     <properties>

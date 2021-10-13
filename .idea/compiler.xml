@@ -14,6 +14,7 @@
         <module name="springboot-task" />
         <module name="springboot-filter" />
         <module name="springboot-log4j2" />
+        <module name="springboot-cache" />
         <module name="springboot-fileUpload" />
       </profile>
     </annotationProcessing>
