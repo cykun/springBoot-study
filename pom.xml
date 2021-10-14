@@ -19,6 +19,7 @@
         <module>springboot-log4j2</module>
         <module>springboot-interceptor</module>
         <module>springboot-cache</module>
+        <module>springboot-undertow</module>
     </modules>
 
     <properties>

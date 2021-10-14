@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="springboot-interceptor" />
         <module name="springboot-swagger" />
+        <module name="springboot-undertow" />
         <module name="springboot-limit" />
         <module name="springboot-websocket" />
         <module name="springboot-web" />
