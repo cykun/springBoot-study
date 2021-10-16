@@ -20,6 +20,7 @@
         <module>springboot-interceptor</module>
         <module>springboot-cache</module>
         <module>springboot-undertow</module>
+        <module>springBoot-quartz</module>
     </modules>
 
     <properties>

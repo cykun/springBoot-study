@@ -13,6 +13,7 @@
         <module name="springboot-websocket" />
         <module name="springboot-web" />
         <module name="springboot-task" />
+        <module name="springBoot-quartz" />
         <module name="springboot-filter" />
         <module name="springboot-log4j2" />
         <module name="springboot-cache" />
