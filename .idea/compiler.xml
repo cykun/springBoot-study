@@ -6,18 +6,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="springboot-limit" />
+        <module name="springboot-jwt" />
+        <module name="springBoot-quartz" />
+        <module name="springboot-filter" />
+        <module name="springboot-fileUpload" />
         <module name="springboot-interceptor" />
         <module name="springboot-swagger" />
         <module name="springboot-undertow" />
-        <module name="springboot-limit" />
         <module name="springboot-websocket" />
         <module name="springboot-web" />
         <module name="springboot-task" />
-        <module name="springBoot-quartz" />
-        <module name="springboot-filter" />
         <module name="springboot-log4j2" />
         <module name="springboot-cache" />
-        <module name="springboot-fileUpload" />
       </profile>
     </annotationProcessing>
   </component>

@@ -21,6 +21,7 @@
         <module>springboot-cache</module>
         <module>springboot-undertow</module>
         <module>springBoot-quartz</module>
+        <module>springboot-jwt</module>
     </modules>
 
     <properties>
