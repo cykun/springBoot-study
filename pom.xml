@@ -22,6 +22,7 @@
         <module>springboot-undertow</module>
         <module>springBoot-quartz</module>
         <module>springboot-jwt</module>
+        <module>springboot-aspect</module>
     </modules>
 
     <properties>

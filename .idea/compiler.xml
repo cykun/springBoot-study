@@ -14,6 +14,7 @@
         <module name="springboot-interceptor" />
         <module name="springboot-swagger" />
         <module name="springboot-undertow" />
+        <module name="springboot-aspect" />
         <module name="springboot-websocket" />
         <module name="springboot-web" />
         <module name="springboot-task" />
