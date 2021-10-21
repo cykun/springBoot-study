@@ -23,6 +23,7 @@
         <module>springBoot-quartz</module>
         <module>springboot-jwt</module>
         <module>springboot-aspect</module>
+        <module>springboot-sms</module>
     </modules>
 
     <properties>
