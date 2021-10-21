@@ -11,6 +11,10 @@ public class SmsController {
 
     public Client smsClient;
 
+    public SmsController(Client client) {
+        this.smsClient = client;
+    }
+
     @GetMapping("/code")
     public String sendCode(@RequestParam String phone) throws Exception {
         SendSmsRequest sendSmsRequest = new SendSmsRequest()
