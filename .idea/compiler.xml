@@ -23,6 +23,7 @@
         <module name="springboot-task" />
         <module name="springboot-log4j2" />
         <module name="springboot-cache" />
+        <module name="springboot-faceDetector" />
       </profile>
     </annotationProcessing>
   </component>
