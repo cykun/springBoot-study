@@ -11,6 +11,7 @@
         <module name="springBoot-quartz" />
         <module name="springboot-filter" />
         <module name="springboot-example" />
+        <module name="springboot-exception" />
         <module name="springboot-fileUpload" />
         <module name="example-spring-boot-starter" />
         <module name="springboot-interceptor" />

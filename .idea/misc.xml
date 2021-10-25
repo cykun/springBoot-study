@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/example-spring-boot-starter/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-example/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-faceDetector/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-exception/pom.xml" />
       </list>
     </option>
   </component>
